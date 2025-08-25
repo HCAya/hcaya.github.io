@@ -3,7 +3,7 @@
     "name": "Chengwei Dong",
     "email": "chengwei.dong@wisc.edu",
     "url": "https://hcaya.github.io/",
-    "summary": "PhD student in theoretical and computational chemistry",
+    "summary": "Ph.D. student in Theoretical Chemistry at UW-Madison.",
     "location": {
       "address": "1101 University Ave",
       "postalCode": "WI 53706",
@@ -17,7 +17,7 @@
       "institution": "University of Wisconsin-Madison",
       "location": "Madison, WI, US",
       "url": "https://www.wisc.edu/",
-      "area": "Theoretical & Computational Chemistry",
+      "area": "Theoretical and Computational Chemistry",
       "studyType": "PhD",
       "startDate": "2024-08-01",
       "endDate": "2029-05-01"
@@ -33,6 +33,13 @@
     }
   ],
   "work": [
+      {
+      "name": "Theoretical Chemistry Institute, University of Wisconsin-Madison",
+      "position": "Research Assistant",
+      "startDate": "2024-11-01",
+      "endDate": "",
+      "summary": "Developing deep learning methods to enhance molecular simulation."
+    },
     {
       "name": "Department of Chemistry, University of Wisconsin-Madison",
       "position": "Teaching Assistant",
@@ -41,11 +48,11 @@
       "summary": "Teaching General Chemistry for undergraduate students."
     },
     {
-      "name": "College of Chemistry and Moleculer Engineering, Peking University",
+      "name": "College of Chemistry and Molecular Engineering, Peking University",
       "position": "Undergraduate Research Assistant",
       "startDate": "2022-06-01",
       "endDate": "2024-07-01",
-      "summary": "In Prof. Yi Qin Gao's group, I studied molecular docking and molecular simulation. I worked on GPU-accelerated flexible docking under the supervision of Prof. Gao and Dr. Hong Zhang."
+      "summary": "In Prof. Yi Qin Gao's group, I studied molecular docking and molecular simulation."
     } 
   ],
   "skills": [
