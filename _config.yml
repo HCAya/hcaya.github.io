@@ -185,6 +185,7 @@ include: ["_pages", "_scripts"]
 exclude:
 # excludes:
   - _news/announcement_*.md
+  - _pages/cv.md
 #  - _pages/blog.md
 #  - _posts/
 #  - _projects/?_project.md
