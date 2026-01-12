@@ -45,7 +45,7 @@
       "position": "Teaching Assistant",
       "startDate": "2024-09-01",
       "endDate": "",
-      "summary": "Teaching General Chemistry for undergraduate students."
+      "summary": "Teaching General Chemistry for undergraduate students (CHEM 103, 104, 109)"
     },
     {
       "name": "College of Chemistry and Molecular Engineering, Peking University",
@@ -72,7 +72,8 @@
       "icon": "fa-solid fa-laptop-code",
       "keywords": [
         "Python",
-        "CUDA C++",
+        "C/C++",
+        "CUDA",
         "Bash"
       ]
     },
@@ -91,12 +92,12 @@
     {
       "language": "Chinese",
       "fluency": "Native speaker",
-      "icon": "fa-solid fa-earch-asia"
+      "icon": "fa-solid fa-earth-asia"
     },
     {
       "language": "English",
       "fluency": "Fluent",
-      "icon": "fa-solid fa-earch-americas"
+      "icon": "fa-solid fa-earth-americas"
     }
   ]
 }
