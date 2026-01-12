@@ -15,7 +15,7 @@ profile:
 
 news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: false # includes social icons at the bottom of the page
+social: true # includes social icons at the bottom of the page
 ---
 
 I am a Ph.D. student in the [Theoretical Chemistry Institute](https://tci.chem.wisc.edu/) at University of Wisconsin–Madison, where I conduct research at the interface of molecular dynamics and machine learning under the supervision of [Prof. Xuhui Huang](https://huang.chem.wisc.edu/). Prior to my doctoral studies, I received a B.S. in Chemistry from [Peking University](https://www.pku.edu.cn/), where I worked on molecular docking methods in the group of [Prof. Yi Qin Gao](https://www.chem.pku.edu.cn/gaoyq/).
